@@ -1,0 +1,4 @@
+https://s3.amazonaws.com/bucket123gwustudent/DATS+6501/Training+images.zip
+
+
+Extract files to a folder named "Training images".
